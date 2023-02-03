@@ -1,6 +1,6 @@
 # Calculator Web Application
 
-The calculator web application that performs basic arithmetic operations. This application is built using HTML, CSS, and JavaScript.
+The calculator web application that performs basic arithmetic operations. This application is built using HTML, CSS, and JavaScript, and can be run using Docker.
 
 ![Alt text](Media/1.png)
 

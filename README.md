@@ -4,9 +4,9 @@ The calculator web application that performs basic arithmetic operations. This a
 
 ![Alt text](Media/1.png)
 
-# Prerequisites
+### Prerequisites
 + Docker installed on your local machine
-+ ext editor is Visual Studio Code,
++ Text editor is Visual Studio Code,
 
 ### Build the Docker image by running the following command in your terminal:
 
